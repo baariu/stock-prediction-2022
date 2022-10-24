@@ -9,7 +9,7 @@ from dash.exceptions import PreventUpdate
 import plotly.express as px
 import plotly.graph_objs as go
 # model
-from Stock_model import prediction
+from stock_model import prediction
 from sklearn.svm import SVR
 
 
